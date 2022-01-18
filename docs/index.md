@@ -4,7 +4,8 @@ count: false
 <br><br>
 ![:scale 60%](images/tf_aws.png)
 <br><br>
-# Terraform Cloud on AWS <br><br>HashiCorp Public Sector | 18 Jan 2022
+# HashiCorp Workshop: TFC on AWS + Controlling Cloud Costs in the Public Sector <br><br>
+### 18 Jan 2022
 
 ???
 **Welcome to the Terraform Cloud on AWS workshop. This is a one day workshop that introduces free and paid features of Terraform Cloud, including Terraform Cloud for Business, using an AWS-based application for the tech labs. If you're brand new to Terraform you should try the Introduction to Terraform OSS on AWS Instruqt track before this one.**
@@ -83,7 +84,7 @@ name: tfc-link-to-slide-deck
 .center[
 Follow along on your own computer at this link:
 
-# https://git.io/JeA7Q
+# https://bit.ly/3tEFaM6
 ]
 
 ???
@@ -1014,6 +1015,9 @@ name: additional-resources-tfe
 # Additional Resources
 If you'd like to learn more about Terraform Enterprise or Terraform Cloud visit the links below:
 
+Whitepaper: Enabling Zero Trust Security in the Public Sector
+https://www.hashicorp.com/resources/enabling-zero-trust-security-in-the-public-sector
+
 Terraform Enterprise Product Page
 https://www.hashicorp.com/products/terraform/
 
@@ -1024,7 +1028,7 @@ Terraform AWS Provider Documentation
 https://www.terraform.io/docs/providers/aws/
 
 Link to this Slide Deck<br>
-https://git.io/JyYIr
+https://bit.ly/3tEFaM6
 
 ---
 name: Feedback-Survey
@@ -1042,5 +1046,5 @@ The survey is short, we promise:
 name: the-end
 class: img-caption
 
-# Congratulations, you completed the workshop!
+# Thank you & congrats, you completed the workshop!
 ![HashiCorp Employees - 2019](https://storage.googleapis.com/instruqt-hashicorp-tracks/terraform-shared/hashicorp_employees.jpg)
