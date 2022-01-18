@@ -1013,7 +1013,6 @@ https://instruqt.com/hashicorp/tracks/terraform-cloud-bonus-lab
 ---
 name: additional-resources-tfe
 # Additional Resources
-If you'd like to learn more about Terraform Enterprise or Terraform Cloud visit the links below:
 
 Whitepaper: Enabling Zero Trust Security in the Public Sector
 https://www.hashicorp.com/resources/enabling-zero-trust-security-in-the-public-sector
