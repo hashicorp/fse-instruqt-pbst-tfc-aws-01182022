@@ -4,7 +4,7 @@ count: false
 <br><br>
 ![:scale 60%](images/tf_aws.png)
 <br><br>
-# HashiCorp Public Sector Workshop: <br>TFC on AWS <br><br>
+# HashiCorp Workshop: TFC on AWS <br><br>
 ### 18 Jan 2022
 
 ???
