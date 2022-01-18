@@ -4,7 +4,7 @@ count: false
 <br><br>
 ![:scale 60%](images/tf_aws.png)
 <br><br>
-# HashiCorp Workshop: TFC on AWS + Controlling Cloud Costs in the Public Sector <br><br>
+# HashiCorp Public Sector Workshop: <br>TFC on AWS <br><br>
 ### 18 Jan 2022
 
 ???
@@ -574,7 +574,7 @@ name: lab-exercise-1
 <br><br>
 In this lab you'll set up a free Terraform Cloud account and configure your account for remote execution of Terraform commands.
 
-Your instructor will provide the URL for the first lab environment.
+Instruqt Lab Environment: https://bit.ly/33QXRl2
 
 🛑 **STOP** after you complete the first quiz - "Terraform Remote State".
 
