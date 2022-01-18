@@ -1003,7 +1003,7 @@ name: bonus-lab
 # Bonus Lab
 ## 🦄 The Gauntlet 🏆
 
-If you have completed all the workshop content and would like to try the bonus lab, your instructor can provide you with an invite.
+If you have completed all the workshop content and would like to try the bonus lab, you're welcome to test your skills in the Bonus Lab here: https://play.instruqt.com/hashicorp/invite/cjad5oykxews
 
 ???
 This bonus lab can be used with any of the three Terraform Cloud workshops. Create an invite if you'd like to share it with your students.
